@@ -16,5 +16,6 @@ public class HelloWorld {
         student2.studentNumber = "12";
         System.out.println(student1.studentNumber);
         System.out.println(student2.studentNumber);
+    }
 }
 
